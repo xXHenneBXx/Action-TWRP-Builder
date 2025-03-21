@@ -1,4 +1,4 @@
-name: VendorBoot Build
+name: Recovery Build
 
 on:
   workflow_dispatch:
